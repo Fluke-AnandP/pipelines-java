@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/anandparikh/DemoProject/_apis/build/status/Fluke-AnandP.pipelines-java%20(1)?branchName=master)](https://dev.azure.com/anandparikh/DemoProject/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
